@@ -12,9 +12,7 @@ Created with CodeSandbox
 
 Markdown
 
-# React + TypeScript プロジェクト
 
-このプロジェクトは、React と TypeScript を使用したウェブアプリケーションのテンプレートです。
 
 ## フォルダ構成
 react-ts-app/
@@ -60,6 +58,5 @@ react-ts-app/
 3.  `pnpm run dev` を実行して、開発サーバーを起動します。
 
 ## その他
-
 このプロジェクトは、Vite を使用して構築されています。
 pnpm create vite react-ts-app --template react-ts
